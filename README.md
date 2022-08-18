@@ -1,6 +1,6 @@
 # EXPLORATORY-DATA-ANALYSIS---MEDICAL-PLANS
 
-Exploring Medical Plans data, understanding and analysing its patterns, recording beneficiaries behaviour and assesing nature of the plans.
+Exploring Medical Plans data, understanding and analysing its patterns, recording beneficiaries behaviour and assesing the nature of the plans.
 
 PROJECT OBJECTIVE :
 
