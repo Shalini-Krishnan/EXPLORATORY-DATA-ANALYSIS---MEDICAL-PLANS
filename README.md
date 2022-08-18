@@ -96,7 +96,7 @@ actions and ideal plan for transitioning  it to be a WIN-WIN scenario should be 
 •	Hence, we sometimes need to analyze the other type of plans, the neighboring countries and other brands follow, and try to leverage ours from it. Constant upgradation of any plans with respect to the people sentiment analysis is always directly proportional to the highest success rate.
 
 
-
+NOTE : The size of the dataset is 57.5 MB, even the compressed file is greater than the allowed limit of 25 MB, hence it is impossible to upload the spreadsheet.
 
 
 
